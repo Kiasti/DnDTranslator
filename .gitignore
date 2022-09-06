@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+.vs/DnDTranslator/FileContentIndex/ecd26afa-efee-40a6-a02b-80c6befef947.vsidx
+*.lock
+*.vsidx
+*.tlog
+*.idb
+*.pdb
+*.log
+*.ilk
+*.recipe
+*.ipch
+DnDTranslator/x64/Debug/_IsIncrementalBuild
+*.db
